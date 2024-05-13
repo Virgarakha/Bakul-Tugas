@@ -7,8 +7,8 @@ function loginsu(){
     let s2 = document.getElementById("salah2");
     let kosong = document.getElementById("kosong");
 
-    const nama = "gedang";
-    const pass = 12;
+    const nama = "admin";
+    const pass = adminjago;
 
 
     if( namaInput == "" && passInput == ""){
